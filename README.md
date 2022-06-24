@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/SmokeDevL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmokeDevL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&hide=issues,contribs"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmokeDevL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&hide=issues,contribs&custom_title=Detalhes sobre mim&gradient=true"/>
+  </div>
 
  
 <div style="display: inline_block"><br>
