@@ -1,9 +1,9 @@
-### Carlos's Initializing </>
+### Inicializando Perfil </>
  ##
 
 <div align="center">
   <a href="https://github.com/SmokeDevL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmokeDevL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmokeDevL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
 </div>
 
  
@@ -28,6 +28,6 @@
  
 </div>
 
-- 🔭 I’m currently working on: School Projects √
-- 🌱 I’m currently learning: Python FrameWorks √
-- 😄 Pronouns: He/his √
+- 🔭 Trabalhando atualmente em: Projetos de escola √
+- 🌱 Atualmente estudando: Python FrameWorks √
+- 😄 Pronomes: Ele/Dele √
