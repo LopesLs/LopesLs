@@ -15,7 +15,7 @@
   <img align ="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align ="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align ="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align = "right"  height="130" width "40" src = "https://cdn.discordapp.com/attachments/971166744624365568/993399127981445191/branco.png">
+  <img align = "right"  height="130" width "40" src = "https://cdn.discordapp.com/attachments/971166744624365568/989762114958811176/Smoke.png">
 </div>
 
   ##
