@@ -4,8 +4,8 @@
 <!-- Essa aqui é a tabela com as informações básicas sobre mim -->
 
 <div align="center">
-  <a href="https://github.com/SmokeDevL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmokeDevL&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_border=true&locale=pt-br&hide=issues,contribs&custom_title=Detalhes sobre mim&gradient=true"/>
+  <a href = "https://github.com/SmokeDevL">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=SmokeDevL&show_icons=true&theme=tokyonight&include_all_commits=truw&count_private=true&hide_border=true&locale=pt-br&hide=issues,contribs&custom_title=Detalhes sobre mim&gradient=true"/>
   </div>
 
 <!-- Esses são os ícones das linguagens de programação que eu tenho contato :) -->
