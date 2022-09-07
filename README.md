@@ -26,11 +26,12 @@
 <!-- Algumas redes que achei importante colocar -->
 
 <div> 
-  <a href="https://www.facebook.com/profile.php?id=100006551354506" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> 
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/ZZQFEKyueG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/playlist/4f7Dblb3Wxhg7bOl5HAPua?si=b465a093999a430b" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/profile.php?id=100006551354506"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black"></a>
+  <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"></a> 
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=black"></a>
+  <a href="https://discord.gg/ZZQFEKyueG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black"></a>
+  <a href="https://open.spotify.com/playlist/4f7Dblb3Wxhg7bOl5HAPua?si=b465a093999a430b"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black"></a>
+  <a href='https://www.youtube.com/channel/UCDw0NGufFAZjJRwHIovguXg'><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black'></a>
   
   <!-- Animação da rafaella, pretendo costumizar e fazer o meu própio :) -->
   
