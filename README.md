@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href = "https://github.com/SmokeDevL">
-  <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=SmokeDevL&show_icons=true&theme=tokyonight&include_all_commits=truw&count_private=true&hide_border=true&locale=pt-br&hide=issues,contribs&custom_title=Detalhes sobre mim&gradient=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SmokeDevL&show_icons=true&theme=github_dark&count_private=true&locale=pt-br&custom_title=Detalhes sobre mim&gradient=true&border_radius=20px&hide=stars,issues,contribs&layout=compact"/>
   </div>
  
  <br>
