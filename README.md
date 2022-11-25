@@ -39,6 +39,5 @@
  
 </div>
 
-- 🔭 Trabalhando atualmente em: Projetos de escola √
-- 🌱 Atualmente estudando: Python FrameWorks √
+- 🌱 Atualmente estudando: Desenvolvimento Web Front-End √
 - 😄 Pronomes: Ele/Dele √
