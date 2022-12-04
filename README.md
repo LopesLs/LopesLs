@@ -11,7 +11,7 @@
 
 <!-- Esses são os ícones das linguagens de programação que eu tenho contato :) -->
 
-<div style = "display: inline">
+<div>
   <a href = 'https://www.python.org'><img align="center"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href='https://pt.wikipedia.org/wiki/HTML'><img align="center"height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href = 'https://www.w3schools.com/css/'><img align = "center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
@@ -22,7 +22,8 @@
 ##
 
 <!-- Algumas redes que achei importante colocar -->
-<div> 
+<div>
+  <br>
   <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"></a> 
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=black"></a>
   <a href="https://discord.gg/ZZQFEKyueG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black"></a>
@@ -30,7 +31,6 @@
   <a href='https://www.youtube.com/channel/UCDw0NGufFAZjJRwHIovguXg'><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black'></a>
   
   <!-- Animação da rafaella, pretendo costumizar e fazer o meu própio :) -->
-  
   ![Animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
