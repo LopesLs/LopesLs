@@ -16,7 +16,7 @@
   <a href='https://pt.wikipedia.org/wiki/HTML'><img align="center"height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href = 'https://www.w3schools.com/css/'><img align = "center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href = 'https://www.javascript.com'><img align = "center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href = '#'><img align = "right"  height="130" width "40" src = "https://cdn.discordapp.com/attachments/971166744624365568/1049023532438392912/Smokes.png"></a>
+  <a href = '#'><img align = "right"  height="200" width "50" src = "https://github.com/SmokeDevL/SmokeDevL/blob/main/hand-coding-animate.svg"></a>
 </div>
 
 ##
