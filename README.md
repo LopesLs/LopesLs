@@ -1,40 +1,49 @@
-<h1 align="center"> Inicializando Perfil </h1>
+<!-- Primeiro parágrafo -->
+<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, me chamo Carlos!</h1>
 
-<!-- Essa aqui é a tabela com as informações básicas sobre mim -->
-<br><br>
+<!-- Texto animado -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=3565F2&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+stack+em+aprendizagem;Atualmente+estudando+no+IFPB)](https://git.io/typing-svg)
 
+<!-- Imagem em svg do cara no computador -->
+<img align ="left" width="250px" src="https://github.com/SmokeDevL/SmokeDevL/blob/main/hand-coding-animate.svg">
+
+<p>Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre buscando aprender mais sobre o universo do desenvolvimento web. Adoro criar projetos interessantes e resolver problemas complexos através da programação. No meu tempo livre, gosto de ler livros sobre tecnologia e manter-me atualizado com as últimas tendências do mercado. Estou empolgado em começar minha carreira e ver o que o futuro me reserva nesta área empolgante.</p>
+
+**********
+
+<div align="left">
+🌱 Atualmente, estou aprendendo <strong>React Native</strong><br>
+💬 Posso responder perguntas sobre <strong>HTML, CSS, JavaScript, Python e SQL</strong><br>
+</div>
+
+**********
+
+<br>
+
+<!-- Exibindo a tabela de commits -->
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SmokeDevL&show_icons=true&theme=github_dark&count_private=true&locale=pt-br&custom_title=Detalhes sobre mim&gradient=true&border_radius=20px&hide=stars,issues,contribs&layout=compact"/>
-</div>
- 
-<br><br>
+</div>	
 
-<!-- Esses são os ícones das linguagens de programação que eu tenho contato :) -->
-
-<div>
-  <a href = 'https://www.python.org'><img align="center"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href='https://pt.wikipedia.org/wiki/HTML'><img align="center"height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href = 'https://www.w3schools.com/css/'><img align = "center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href = 'https://www.javascript.com'><img align = "center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href = 'https://nodejs.org/en/'><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <a href = 'https://pt-br.reactjs.org'><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <img align = "right"  height="200" width "50" src = "https://github.com/SmokeDevL/SmokeDevL/blob/main/hand-coding-animate.svg">
-</div>
-
-##
-
-<!-- Algumas redes que achei importante colocar -->
-<div>
-  <br><br>
-  <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"></a> 
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=black"></a>
-  <a href="https://discord.gg/ZZQFEKyueG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black"></a>
-  <a href="https://open.spotify.com/playlist/4f7Dblb3Wxhg7bOl5HAPua?si=b465a093999a430b"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black"></a>
-  <a href='https://www.youtube.com/channel/UCDw0NGufFAZjJRwHIovguXg'><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black'></a>
-  
-  <!-- Animação da rafaella, pretendo costumizar e fazer o meu própio :) -->
-  ![Animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+<!-- Exibindo as linguagens e ferramentas -->
+<div align="center">
+  <h3>Linguagens e Ferramentas:</h3>
+  <section display="inline">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/3565F2"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/3565F2"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/3565F2"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/3565F2"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/express/3565F2"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/3565F2"/>
+  </section>
 </div>
 
-##
+*******************
+
+<div align="center">
+  <h3>Entre em contato:</h3>
+  <p>
+    <img src="https://custom-icon-badges.demolab.com/badge/-lopes.carlos@academico.ifpb.edu.br-3565F2?style=for-the-badge&logo=mention&logoColor=white">
+    <a href="https://www.linkedin.com/in/dev-carlos-lopes/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-3565F2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </p>
+</div>
