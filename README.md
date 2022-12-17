@@ -2,12 +2,21 @@
 <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, me chamo Carlos!</h1>
 
 <!-- Texto animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=3565F2&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+stack+em+aprendizagem;Atualmente+estudando+no+IFPB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=3565F2&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+stack+em+aprendizagem;Atualmente+estudando+no+IFPB;Tecnologias+em+desenvolvimento:+JavaScript+e+React+Native)](https://git.io/typing-svg)
 
 <!-- Imagem em svg do cara no computador -->
 <img align ="left" width="250px" src="https://github.com/SmokeDevL/SmokeDevL/blob/main/hand-coding-animate.svg">
 
-<p>Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre buscando aprender mais sobre o universo do desenvolvimento web. Adoro criar projetos interessantes e resolver problemas complexos através da programação. No meu tempo livre, gosto de ler livros sobre tecnologia e manter-me atualizado com as últimas tendências do mercado. Estou empolgado em começar minha carreira e ver o que o futuro me reserva nesta área empolgante.</p>
+<!-- Criando uma table para criar uma borda em volta da descrição -->
+<table>
+  <tbody>
+    <tr>
+      <td width='700px'>
+        <p>Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre buscando aprender mais sobre o universo do desenvolvimento web. Adoro criar projetos    interessantes e resolver problemas complexos através da programação. No meu tempo livre, gosto de ler livros sobre tecnologia e manter-me atualizado com as últimas tendências do mercado. Estou empolgado em começar minha carreira e ver o que o futuro me reserva nesta área empolgante.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **********
 
