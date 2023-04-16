@@ -10,7 +10,7 @@
         <img align ="left" src="https://github.com/SmokeDevL/SmokeDevL/blob/main/hand-coding-animate.svg">
       </td>
       <td width='max' height='200px'>
-        <p>Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre buscando aprender mais sobre o universo do desenvolvimento web. Adoro criar projetos    interessantes e resolver problemas complexos através da programação. No meu tempo livre, gosto de ler livros sobre tecnologia e manter-me atualizado com as últimas tendências do mercado.</p>
+        <p>Sou um desenvolvedor web front-end, apaixonado por tecnologia e sempre buscando aprender mais sobre este universo da internet. Adoro criar projetos    interessantes e resolver problemas complexos através da programação. No meu tempo livre, gosto de ler livros sobre tecnologia e manter-me atualizado com as últimas tendências do mercado.</p>
       </td>
     </tr>
   </tbody>
