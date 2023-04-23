@@ -19,7 +19,7 @@
 **********
 
 <div align="left">
-🌱 Atualmente, estou aprendendo <strong>ReactJs</strong><br>
+  🌱 Atualmente, estou aprendendo <strong>ReactJs</strong> e <strong>Java</strong><br>
 💬 Tenho conhecimento em  <strong>HTML, CSS, JavaScript, Python e SQL</strong><br>
 </div>
 
