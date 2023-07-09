@@ -1,16 +1,16 @@
 <!-- Primeiro parágrafo -->
-<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> chamo-me Carlos!</h1>
+<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> meu nome é Carlos!</h1>
 
 <!-- Criando uma table para criar uma borda em volta da descrição -->
 <table>
   <tbody>
     <tr>
+      <td width='max' height='200px'>
+        <p>Sou um desenvolvedor de software, apaixonado por tecnologia e sempre buscando aprender mais sobre o universo da internet. Gosto muito de criar soluções mediante a programação para resolver problemas do cotidiano. No meu tempo livre vejo algumas lives, leio livros e escuto podcasts sobre TI.</p>
+      </td>
       <td width='250px'>
         <!-- Imagem em svg do cara no computador -->
         <img align ="left" src="https://github.com/SmokeDevL/SmokeDevL/blob/main/hand-coding-animate.svg">
-      </td>
-      <td width='max' height='200px'>
-        <p>Sou um desenvolvedor web front-end, apaixonado por tecnologia e sempre buscando aprender mais sobre este universo da internet. Adoro criar projetos    interessantes e resolver problemas complexos através da programação. No meu tempo livre, gosto de ler livros sobre tecnologia e manter-me atualizado com as últimas tendências do mercado.</p>
       </td>
     </tr>
   </tbody>
