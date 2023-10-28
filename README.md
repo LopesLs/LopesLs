@@ -1,12 +1,12 @@
 <!-- Primeiro parágrafo -->
-<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> meu nome é Carlos!</h1>
+<h1 align="center">Olá meu nome é Carlos!</h1>
 
 <!-- Criando uma table para criar uma borda em volta da descrição -->
 <table>
   <tbody>
     <tr>
       <td width='max' height='200px'>
-        <p>Sou um desenvolvedor de software, apaixonado por tecnologia e sempre buscando aprender mais sobre o universo da internet. Gosto muito de criar soluções mediante a programação para resolver problemas do cotidiano. No meu tempo livre vejo algumas lives, leio livros e escuto podcasts sobre TI.</p>
+        <p>Atualmente, sou estudante do curso técnico integrado no IFPB campus Cajazeiras-PB. Estou focado no desenvolvimento Back-End porque é uma área interessante, resolver problemas e criar soluções fazem com que eu siga este nicho do desenvolvimento web.</p>
       </td>
       <td width='250px'>
         <!-- Imagem em svg do cara no computador -->
@@ -19,7 +19,7 @@
 **********
 
 <div align="left">
-  🌱 Atualmente, estou aprendendo <strong>Php</strong> e <strong>Java</strong><br>
+  🌱 Atualmente, estou aprendendo <strong>Django Framework</strong><br>
 💬 Tenho conhecimento em  <strong>HTML, CSS, JavaScript, Python e SQL</strong><br>
 </div>
 
