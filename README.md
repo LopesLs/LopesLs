@@ -40,8 +40,6 @@
 <!-- Exibindo a tabela de commits -->
 <div align="center">
   <img loading="lazy" height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopesLs&layout=compact&langs_count=7&theme=github_dark&border_radius=20px&locale=pt-br"/>
-  &nbsp;
-  &nbsp;
   <img loading='lazy' height="175rem" src="https://github-readme-stats.vercel.app/api?username=LopesLs&show_icons=true&theme=github_dark&count_private=true&locale=pt-br&custom_title=Detalhes sobre mim&gradient=true&border_radius=20px&hide=stars,issues,contribs&layout=compact"/>
 </div>	
 
