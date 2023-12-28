@@ -10,7 +10,7 @@
       </td>
       <td width='250px'>
         <!-- Imagem em svg do cara no computador -->
-        <img align="left" src="https://github.com/SmokeDevL/SmokeDevL/blob/main/hand-coding-animate.svg">
+        <img align="left" src="https://github.com/SmokeDevL/SmokeDevL/blob/main/developer-activity-animate.svg">
       </td>
     </tr>
   </tbody>
