@@ -1,4 +1,3 @@
-<!-- Primeiro parágrafo -->
 <h1 align="center">Olá meu nome é Carlos!</h1>
 
 <!-- Criando uma table para criar uma borda em volta da descrição -->
@@ -6,7 +5,7 @@
   <tbody>
     <tr>
       <td width='max' height='200px'>
-        <p>Atualmente, sou estudante do curso técnico integrado no IFPB campus Cajazeiras-PB. Estou focado no desenvolvimento Back-End porque é uma área interessante, resolver problemas e criar soluções fazem com que eu siga este nicho do desenvolvimento web.</p>
+        <p>Sou técnico em informática pelo IFPB Campus Cajazeiras. Estou focado no desenvolvimento Back-End porque é uma área interessante, resolver problemas e criar soluções fazem com que eu siga este nicho do desenvolvimento web.</p>
       </td>
       <td width='250px'>
         <!-- Imagem em svg do cara no computador -->
