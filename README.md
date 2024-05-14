@@ -5,7 +5,7 @@
   <tbody>
     <tr>
       <td width='max' height='200px'>
-        <p>Sou técnico em informática pelo IFPB Campus Cajazeiras. Estou focado no desenvolvimento Back-End porque é uma área interessante, resolver problemas e criar soluções fazem com que eu siga este nicho do desenvolvimento web.</p>
+        <p>Trabalho atualmente como desenvolvedor back-end na UEPB (Universidade Estadual da Paraíba), descobri a programação no ensino médio e desde então venho dedicado meus esforços alcançar a maestria no desenvolvimento de sistemas e sites.</p>
       </td>
       <td width='250px'>
         <!-- Imagem em svg do cara no computador -->
