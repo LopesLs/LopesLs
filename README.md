@@ -5,7 +5,7 @@
   <tbody>
     <tr>
       <td width='max' height='200px'>
-        <p>Trabalho atualmente como desenvolvedor back-end na UEPB (Universidade Estadual da Paraíba), descobri a programação no ensino médio e desde então venho dedicado meus esforços alcançar a maestria no desenvolvimento de sistemas e sites.</p>
+        <p>Trabalho atualmente como desenvolvedor back-end na UEPB (Universidade Estadual da Paraíba), descobri a programação no ensino médio e desde então venho dedicado meus esforços alcançar a maestria no desenvolvimento de sistemas e sites. Não tenho o histórico de commits muito ativo por aqui, isso porque no meu dia a dia utilizo gitlab intranet na empresa.</p>
       </td>
       <td width='250px'>
         <!-- Imagem em svg do cara no computador -->
