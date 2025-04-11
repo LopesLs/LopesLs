@@ -6,7 +6,7 @@
       <td width='max' height='200px'>
         <p>Currently working as a back-end developer at UEPB (Universidade Estadual da Paraíba) and i do some freelance projects in my free time.</p>
         <p>I discovered programming in high school and since then I have dedicated my efforts to achieving mastery in the development of systems and websites.</p>
-        <p>My commit history isn't very active here because in my day-to-day work, we the GitLab intranet at the company and my freelancer projects are privated.</p>
+        <p>My commit history isn't very active here because in my day-to-day work, we use GitLab intranet at the company and my freelancer projects are privated.</p>
       </td>
       <td width='250px'>
         <img align="left" src="https://github.com/SmokeDevL/SmokeDevL/blob/main/developer-activity-animate.svg">
